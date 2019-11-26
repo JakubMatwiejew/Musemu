@@ -1,0 +1,40 @@
+.log-image-text {
+    font-size: 36px;
+    line-height: 44px;
+}
+
+  .address {
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+
+  .forgot-password {
+    font-size: 10px;
+    line-height: 12px;
+    text-align: right;
+    margin-top: 2px;
+    margin-bottom: 40px;
+  }
+  
+  .create-account {
+    font-size: 10px;
+    line-height: 12px;
+    margin-top: 7px;
+  }
+
+  .background {
+      background: url("/assets/background.jpg");
+      height: 100vh;
+      width: 100%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: absolute;
+      left: 0px;
+      top: 0px
+  }
+
+  .log-content {
+      padding: 201px 60px 54px 65px;
+  }
